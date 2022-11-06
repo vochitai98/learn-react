@@ -17,7 +17,7 @@ function App(){
     return (
       <div className="App">
         
-        <h1>Võ Chí Tài</h1>
+        <h1>Hoc React dễ lắm ai ơi</h1>
         <button onClick = {()=>changeName()}>Change age</button>
         <Person name = {person[0].name} age ={person[0].age}>I'm a student.</Person>
         <Person name = {person[1].name} age ={person[1].age}/>
